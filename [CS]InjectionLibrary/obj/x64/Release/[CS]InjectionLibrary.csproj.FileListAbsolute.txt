@@ -1,0 +1,5 @@
+C:\Users\Fistle\Desktop\[CS]InjectionLibrary\[CS]InjectionLibrary\bin\x64\Release\InjectionLibrary.dll
+C:\Users\Fistle\Desktop\[CS]InjectionLibrary\[CS]InjectionLibrary\bin\x64\Release\InjectionLibrary.pdb
+C:\Users\Fistle\Desktop\[CS]InjectionLibrary\[CS]InjectionLibrary\obj\x64\Release\[CS]InjectionLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Fistle\Desktop\[CS]InjectionLibrary\[CS]InjectionLibrary\obj\x64\Release\InjectionLibrary.dll
+C:\Users\Fistle\Desktop\[CS]InjectionLibrary\[CS]InjectionLibrary\obj\x64\Release\InjectionLibrary.pdb
